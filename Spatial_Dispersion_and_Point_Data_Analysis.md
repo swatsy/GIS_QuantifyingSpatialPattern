@@ -1,6 +1,7 @@
 Spatial Dispersion and Point Data Analysis
 ================
 Cliff
+
 2023-03-04
 
 **Reference and Disclaimer:** For this exercise, I have used explanation
